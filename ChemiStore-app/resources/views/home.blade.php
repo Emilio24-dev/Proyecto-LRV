@@ -90,6 +90,7 @@ footer {
         <p>Tu tienda online de camisas de fútbol originales</p>
     </header>
 
+
     <main>
         <div class="grid">
             <div class="card">
@@ -110,6 +111,11 @@ footer {
             </div>
         </div>
     </main>
+<div style="text-align: center; margin-top: 30px;">
+    <a href="/balones" style="display: inline-block; padding: 12px 24px; background-color: #111827; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+        Ver Balones de Fútbol
+    </a>
+</div>
 
     <footer>
         <p>&copy; 2025 ChemiStore. Todos los derechos reservados.</p>
